@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+WA_Fn-UseC_-Telco-Customer-Churn.csv
